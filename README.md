@@ -1,2 +1,12 @@
-# Caso-Rede-de-Cinemas
-Uma empresa atua como rede de cinemas, possuindo diversas unidades espalhadas por diferentes cidades e estados. Cada cinema possui características próprias, como capacidade de público e endereço completo, e exibe simultaneamente vários filmes em cartaz, organizados em sessões ao longo do dia.
+# Sistema de Gestão de Rede de Cinemas
+
+Sistema desenvolvido para a disciplina de Engenharia de Software, aplicando a Arquitetura em Camadas (MVC + Service + Repository) com persistência em SQLite.
+
+## 📁 Estrutura de Documentação
+- Diagramas de Caso de Uso e de Classes disponíveis na pasta `docs/`.
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/gabrielsartorio/Caso-Rede-de-Cinemas.git](https://github.com/gabrielsartorio/Caso-Rede-de-Cinemas.git)
